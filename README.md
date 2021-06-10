@@ -1,2 +1,2 @@
 # Manual-testing-project-
-Software testing mini project 
+Manual testing mini project 
